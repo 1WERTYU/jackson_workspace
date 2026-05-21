@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+tmp/
+
+# Nested independent repos — each has its own GitHub remote
+Google-MCP/
+hello-world-website/
+67willneverdie.com/
